@@ -1,6 +1,6 @@
 # Basic Visualization with Google Looker Studio
 ## Turn Your Data into Stories with Google Looker Studio <br>
-<img align="right" alt="Coding" src="https://github.com/Syamabbas/Basic-Visualization-with-Google-Looker-Studio/blob/39fdfcfd14108e6335e10a8b95cf27c30ac6c014/Flayer.jpeg"> <br>
+<img align="right" alt="Coding" src="https://github.com/Syamabbas/Basic-Visualization-with-Google-Looker-Studio/blob/2cd7c19f2f929d10b86b30329e75f5fd3f43a508/Materi%20%26%20recording/Flayer.jpeg"> <br>
 
 🎯 Yang akan kamu pelajari : <br>
 ✅ Memahami fungsi Google Looker Studio <br>
