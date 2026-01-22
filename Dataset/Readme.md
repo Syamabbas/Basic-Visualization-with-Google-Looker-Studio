@@ -1,7 +1,3 @@
-Berikut caption yang bisa kamu gunakan di **README.md** untuk menjelaskan cara download dataset **Sales Superstore** di GitHub dengan **dua cara**:
-
----
-
 ## 📥 Cara Download Dataset *Sales Superstore*
 
 Dataset **Sales Superstore** dapat diunduh melalui repository GitHub dengan dua metode berikut:
@@ -27,5 +23,6 @@ Dataset **Sales Superstore** dapat diunduh melalui repository GitHub dengan dua 
 
 📌 **Catatan:**
 Metode *clone repository* direkomendasikan jika Anda ingin selalu mendapatkan update terbaru dari dataset atau menggunakannya dalam proyek berbasis Git.
+
 
 ---
